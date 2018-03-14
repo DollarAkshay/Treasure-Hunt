@@ -37,5 +37,10 @@ Listen [::]:8002
 
 1. Make sure to test whether it works from other computers. Find the ipaddress of the server by typing `ipconfig` in CMD. It should be something like `192.168.12.123`. So open a browser from another computer and type http://192.168.12.123:8001 and you should be able to view the index.html page.
 
+## NOTE
+
+#### For treasure hunt, please do not name the images in sequential order as anyone can guess and access the next question. Preferably use a random name and MD5 hash of that name so that it is literally impossible to guess the filename.
+
+
 [1]: /images/screenshots/Creating%20Virtual%20Host.png?raw=true
 [2]: /images/screenshots/Treasure%20Hunt%20Homepage.png?raw=true
